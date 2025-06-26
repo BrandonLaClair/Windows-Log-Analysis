@@ -123,7 +123,13 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
-
+*.evtx
+*.log
+*.json
+__pycache__/
+.env
+*.pyc
+.DS_Store
 __pycache__/
 *.pyc
 *.evtx
